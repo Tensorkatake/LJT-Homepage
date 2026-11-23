@@ -10,24 +10,24 @@ redirect_from:
 About Me
 ======
 
-I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, advised by Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from SJTU in June 2024.
+I am Junteng Liu, a first-year PhD candidate at HKUST NLP Group, advised by Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
-My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
+My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
 Academic Background
 ======
 
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 - Present)
-* **B.Eng.**, Shanghai Jiao Tong University (2020 - 2024); graduated in June 2024
+* **Ph.D. in Computer Science** (2024-Present) at Hong Kong University of Science and Technology
+* **B.Eng.** (2020-2024) at Shanghai Jiao Tong University; graduated in June 2024
 * **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 Research Experience
 ======
 
-* **Research Intern**, MINIMAX (February 2025 - Present)
-* **Research Intern**, Tencent WXG (June 2024 - September 2024)
+* **Research Intern** at MINIMAX (February 2025 - Present)
+* **Research Intern** at Tencent WXG (June 2024 - September 2024)
   * Advisor: Zifei Shan
-* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
+* **Research Intern** at Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
 Skills
