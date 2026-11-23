@@ -49,7 +49,7 @@ Publications
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) - Co-author. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 * **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) - Co-author. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-See the [Publications](/publications/) page for more details.
+See the [Publications]({{ site.baseurl }}/publications/) page for more details.
 
 Contact
 ======
